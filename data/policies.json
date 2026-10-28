@@ -1,0 +1,7 @@
+[
+  {"id":"booking-v1", "text":"Appointment booking is available through the secure patient portal. The service team confirms appointment times."},
+  {"id":"documents-v1", "text":"Onboarding documents must be uploaded through the secure patient portal. Do not send medical records in chat."},
+  {"id":"consent-v1", "text":"Onboarding consent may be withdrawn by contacting the service team. Withdrawal does not replace a clinical consultation."},
+  {"id":"hours-v1", "text":"The administrative service team operates Monday to Friday from 09:00 to 17:00 in this fictional demonstration."},
+  {"id":"privacy-v1", "text":"Patient privacy questions are handled by the designated privacy team through the secure patient portal."}
+]
